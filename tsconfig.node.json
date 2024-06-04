@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler", // 此处需要改成bundler
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"]
+}
